@@ -1,4 +1,4 @@
-public class Main {
+public class TowersOfHanoi {
     public static void main(String[] args) {
         towersOfHanoi(3, "1", "2", "3");
     }
